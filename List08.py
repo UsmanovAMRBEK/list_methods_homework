@@ -6,4 +6,15 @@ def main(fruits):
     Returns:
         list: return answer
     """
-    return
+    if "apple" in fruits:
+        fruits.remove("apple")
+    if "apple" in fruits:
+        fruits.remove("apple")
+    if "apple" in fruits:
+        fruits.remove("apple")
+    if "apple" in fruits:
+        fruits.remove("apple")
+    if "apple" in fruits:
+        fruits.remove("apple")
+  
+    return fruits
